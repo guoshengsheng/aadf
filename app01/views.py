@@ -6,3 +6,4 @@ def Users(request):
     for i in obj_list:
         print(i.name,i.department.title,i.role.title)
     return HttpResponse("OK")
+222222222222
