@@ -7,12 +7,4 @@ def Users(request123):
         print(i.name,i.department.title,i.role.title)
     return HttpResponse("OK")
 
-日韩开发
-
-
-
-
-开发小视频
-
-二次开发小视频
 
