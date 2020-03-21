@@ -7,3 +7,15 @@ def Users(request):
         print(i.name,i.department.title,i.role.title)
     return HttpResponse("OK")
 
+
+
+
+
+
+
+
+
+
+
+963
+963
