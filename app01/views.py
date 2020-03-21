@@ -7,4 +7,6 @@ def Users(request123):
         print(i.name,i.department.title,i.role.title)
     return HttpResponse("OK")
 
+
+
 开放小视频到完毕
