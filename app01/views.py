@@ -12,10 +12,8 @@ def Users(request123):
         121121
         455454
         45554
-        000
     return HttpResponse("OK")
-000
-000
+
 
 
 
